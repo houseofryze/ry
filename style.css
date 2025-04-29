@@ -39,8 +39,8 @@
 
 @font-face {
   font-family: "Solare Intense", serif;
-  src: url("fonts/Solare-RegularIntense.woff2") format("woff2"), 
-  url("fonts/Solare-RegularIntense.woff") format("woff");
+  src: url("fonts/SolareRegularIntense.woff2") format("woff2"), 
+  url("fonts/SolareRegularIntense.woff") format("woff");
   font-weight: 450;
   font-style: normal;
   font-stretch: normal;
